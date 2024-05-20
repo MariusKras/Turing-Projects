@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+county_shapefiles/
+county_facts.csv
+county_facts_dictionary.csv
+presentation point selector.png
+primary_results.csv

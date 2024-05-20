@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+mental_health.sqlite
+env/
+215.ipynb
+mental_health.sqlite
